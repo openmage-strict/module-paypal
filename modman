@@ -1,0 +1,8 @@
+src/app/code/core/Mage/Paypal/                                     app/code/core/Mage/Paypal/
+src/app/design/adminhtml/default/default/template/paypal/          app/design/adminhtml/default/default/template/cms/
+src/app/design/frontend/base/default/layout/paypal.xml             app/design/frontend/base/default/layout/paypal.xml
+src/app/design/frontend/base/default/template/paypal/              app/design/frontend/base/default/template/paypal/
+src/app/design/frontend/rwd/default/layout/paypal.xml              app/design/frontend/rwd/default/layout/paypal.xml
+src/app/design/frontend/rwd/default/template/paypal/               app/design/frontend/rwd/default/template/paypal/
+src/app/etc/modules/Mage_Paypal.xml                                app/etc/modules/Mage_Paypal.xml
+src/app/locale/en_US/Mage_Paypal.csv                               app/locale/en_US/Mage_Paypal.csv

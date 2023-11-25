@@ -1,0 +1,12 @@
+{
+    "name": "openmage-strict/module-paypal",
+    "description": "Mage_Paypal",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*",
+        "openmage-strict/module-checkout": "*",
+        "openmage-strict/module-paygate": "*",
+        "openmage-strict/module-sales": "*"
+    }
+}
