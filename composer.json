@@ -5,8 +5,8 @@
     "type": "magento-module",
     "require": {
         "magento-hackathon/magento-composer-installer": "*",
-        "openmage-strict/module-checkout": "*",
-        "openmage-strict/module-paygate": "*",
-        "openmage-strict/module-sales": "*"
+        "openmage-strict/module-checkout": "^120.2",
+        "openmage-strict/module-paygate": "^120.2",
+        "openmage-strict/module-sales": "^120.2"
     }
 }
