@@ -283,7 +283,7 @@
                                                 <shared>1</shared>
                                             </api_cert>
                                             <api_wizard translate="button_label sandbox_button_label">
-                                                <label></label>
+                                                <label/>
                                                 <button_label>Get Credentials from PayPal</button_label>
                                                 <button_url><![CDATA[https://www.paypal.com/us/cgi-bin/webscr?cmd=_login-api-run]]></button_url>
                                                 <sandbox_button_label>Sandbox Credentials</sandbox_button_label>
@@ -4003,7 +4003,7 @@
                                                         <shared>1</shared>
                                                     </bml_publisher_id>
                                                     <bml_wizard translate="button_label">
-                                                        <label></label>
+                                                        <label/>
                                                         <button_label>Get Publisher ID from PayPal</button_label>
                                                         <button_url><![CDATA[https://financing.paypal.com/ppfinportal/cart/index?dcp=4eff8563b9cc505e0b9afaff3256705081553c79]]></button_url>
                                                         <frontend_model>paypal/adminhtml_system_config_bmlApiWizard</frontend_model>
