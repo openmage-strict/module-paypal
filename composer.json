@@ -7,6 +7,11 @@
         "magento-hackathon/magento-composer-installer": "*",
         "openmage-strict/module-checkout": "^120.2",
         "openmage-strict/module-paygate": "^120.2",
-        "openmage-strict/module-sales": "^120.2"
+        "openmage-strict/module-sales": "^120.2",
+        "zf1s/zend-date": "*",
+        "zf1s/zend-db": "*",
+        "zf1s/zend-currency": "*",
+        "zf1s/zend-http": "*",
+        "zf1s/zend-json": "*"
     }
 }
